@@ -50,6 +50,9 @@
                     You can see code also posted by other pepole or else if you want to do post on certain technology then you can also do that
                <br>
                For better experiences sinup to our techblog.
+               <br>
+               Thanks You!!!
+         
                 </p1>
                 
                 
